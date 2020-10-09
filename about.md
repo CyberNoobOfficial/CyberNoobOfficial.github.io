@@ -2,15 +2,13 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+## Motivation
 
-### More Information
+The goal of this blog is to track my progress in different topics of interest I have.
 
-A place to include any other types of information that you'd like to include about yourself.
- 
-### Contact me
+Mainly computer-science, cyber-security, math and physics, and more.
 
-
-[email@domain.com](mailto:email@domain.com) 
+I want my posts to be informative always containing full source code and explanations.
