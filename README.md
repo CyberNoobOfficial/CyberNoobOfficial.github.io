@@ -22,7 +22,7 @@ In a few minutes you'll be set up with a minimal, responsive blog like the one b
 
 Fork this repo, then rename the repository to yourgithubusername.github.io.
 
-Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
+Your Jekyll blog will often be viewable immediately at <https://cybernoobofficial.github.io/> (if it's not, you can often force it to build by completing step 2)
 
 ![Step 1](/images/step1.gif "Step 1")
 
