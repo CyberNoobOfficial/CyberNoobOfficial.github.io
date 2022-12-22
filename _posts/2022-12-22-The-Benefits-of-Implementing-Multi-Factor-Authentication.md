@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Multi-factor authentication, also known as two-factor authentication or 2FA, is a security measure that requires users to provide two or more forms of identification when logging into a system or accessing sensitive data. This can include a combination of something the user knows (such as a password), something the user has (such as a security token or mobile phone), or something the user is (such as a fingerprint).
 
