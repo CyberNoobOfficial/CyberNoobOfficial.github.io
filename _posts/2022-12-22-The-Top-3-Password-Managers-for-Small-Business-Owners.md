@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## The-Top-3-Password-Managers-for-Small-Business-Owners
 
