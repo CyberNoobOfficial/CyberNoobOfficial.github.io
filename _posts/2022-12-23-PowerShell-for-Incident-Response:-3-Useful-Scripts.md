@@ -30,9 +30,11 @@ This script will enumerate all the processes running on the system and display t
 ## 3. Network Connection Enumeration
 
 In some cases, you may need to identify all the network connections established by a system. This can help you determine which connections might be malicious and need to be terminated. The following PowerShell script can help automate this process:
+
 ``
 Get-NetTCPConnection | Select-Object LocalAddress, LocalPort, RemoteAddress, RemotePort
 ``
+
 This script will enumerate all the TCP connections established by the system and display their local and remote addresses and ports. You can use this script to quickly identify all the network connections established by a system and determine which ones might be malicious and need to be terminated.
 
 ## 4. Conclusion
