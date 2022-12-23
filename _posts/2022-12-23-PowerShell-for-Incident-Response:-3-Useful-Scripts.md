@@ -11,9 +11,9 @@ Incident response is a crucial part of cybersecurity, but it can be time-consumi
 
 One common task in incident response is to identify all the user accounts on a system. This can help you determine which accounts might have been compromised and need to be investigated further. The following PowerShell script can help automate this process:
 
-```
+``
 Get-LocalUser | Select-Object Name
-```
+``
 
 This script will enumerate all the local user accounts on the system and display their names. You can use this script to quickly identify all the user accounts on a system and determine which ones might need to be investigated further.
 
@@ -21,18 +21,18 @@ This script will enumerate all the local user accounts on the system and display
 
 Another common task in incident response is to identify all the processes running on a system. This can help you determine which processes might be malicious and need to be terminated. The following PowerShell script can help automate this process:
 
-```
+``
 Get-Process
-```
+``
 
 This script will enumerate all the processes running on the system and display their names, IDs, and other information. You can use this script to quickly identify all the processes on a system and determine which ones might be malicious and need to be terminated.
 
 ## 3. Network Connection Enumeration
 
 In some cases, you may need to identify all the network connections established by a system. This can help you determine which connections might be malicious and need to be terminated. The following PowerShell script can help automate this process:
-```
+``
 Get-NetTCPConnection | Select-Object LocalAddress, LocalPort, RemoteAddress, RemotePort
-```
+``
 This script will enumerate all the TCP connections established by the system and display their local and remote addresses and ports. You can use this script to quickly identify all the network connections established by a system and determine which ones might be malicious and need to be terminated.
 
 ## 4. Conclusion
