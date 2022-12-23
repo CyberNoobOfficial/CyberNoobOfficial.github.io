@@ -13,7 +13,6 @@ One common task in incident response is to identify all the user accounts on a s
 
 ```
 Get-LocalUser | Select-Object Name
-
 ```
 
 This script will enumerate all the local user accounts on the system and display their names. You can use this script to quickly identify all the user accounts on a system and determine which ones might need to be investigated further.
