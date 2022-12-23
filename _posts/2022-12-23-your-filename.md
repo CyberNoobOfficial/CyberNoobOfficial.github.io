@@ -1,7 +1,5 @@
 ---
-published: false
----
----
+published: true
 title: "PowerShell for Incident Response: 3 Useful Scripts"
 description: "Incident response can be time-consuming and complex, but PowerShell can make it easier. In this post, we'll look at 3 useful PowerShell scripts for incident response."
 tags: [PowerShell, incident response, cybersecurity]
